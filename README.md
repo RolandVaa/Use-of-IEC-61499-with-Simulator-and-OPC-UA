@@ -88,4 +88,4 @@ A video showcasing:
 **Video (link or embedded):**
 
 ```md
-[▶ Watch the demonstration video](video/demo.mp4)
+[▶ Watch the demonstration video](video1830025706.mp4)
